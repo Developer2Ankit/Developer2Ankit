@@ -1,20 +1,18 @@
 # ANKIT YADAV
 **Senior Java Full Stack Developer / Technical Lead**
 
-🔹 [📄 Download Full PDF Resume](./Ankit_Yadav_Resume.pdf) | 📧 ankit151software@gmail.com | 📱 +91 9450337307
+🔹 [📄 Download Full PDF Resume](./Ankit_Yadav_Resume.pdf) | 📧 ankit151software@gmail.com
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Core Tech Stack
 
-![Java](https://shields.io) ![Spring Boot](https://shields.io) ![Angular](https://shields.io) ![Azure](https://shields.io) ![Kubernetes](https://shields.io) ![Splunk](https://shields.io) ![Jenkins](https://shields.io) ![PostgreSQL](https://shields.io)
-
-*   **Backend Architecture:** Java (Core, Servlet, JSP), Spring Boot, Spring MVC, Struts, Hibernate, JPA, RESTful Web Services.
-*   **Frontend Technologies:** Angular, JavaScript, jQuery, HTML5, CSS3.
-*   **Database Management:** PostgreSQL, MSSQL, MySQL, Oracle, MongoDB.
-*   **Cloud & DevOps:** Azure DevOps, Azure CI/CD Pipelines, GitHub Actions, Kubernetes (K8s), Jenkins, Maven.
-*   **Security & Identity:** OAuth 2.0, JWT Authentication.
-*   **Monitoring & Observability:** Splunk, DataDog, SonarQube, SonarLint.
+*   **☕ Languages & Frameworks:** Java (Core, Servlet, JSP), Spring Boot, Spring MVC, Struts, Hibernate, JPA
+*   **🌐 Frontend Technologies:** Angular, JavaScript, jQuery, HTML5, CSS3
+*   **🗄️ Database Management:** PostgreSQL, MSSQL, MySQL, Oracle, MongoDB
+*   **☁️ Cloud & DevOps:** Azure DevOps, Azure CI/CD Pipelines, GitHub Actions, Kubernetes (K8s), Jenkins, Maven
+*   **🔐 Security & Identity:** OAuth 2.0, JWT Authentication
+*   **📊 Monitoring & Observability:** Splunk, DataDog, SonarQube, SonarLint
 
 ---
 
