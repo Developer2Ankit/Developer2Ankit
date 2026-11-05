@@ -6,12 +6,13 @@
 ---
 
 ### 🛠️ Tech Stack & Tools
-![Java](https://shields.io) ![Spring](https://shields.io) ![Angular](https://shields.io) ![Azure](https://shields.io) ![Kubernetes](https://shields.io) ![Splunk](https://shields.io)
+
+<img src="https://shields.io" alt="Java"/> <img src="https://shields.io" alt="Spring Boot"/> <img src="https://shields.io" alt="Angular"/> <img src="https://shields.io" alt="Azure"/> <img src="https://shields.io" alt="Kubernetes"/> <img src="https://shields.io" alt="Splunk"/> <img src="https://shields.io" alt="Jenkins"/> <img src="https://shields.io" alt="PostgreSQL"/>
 
 *   **Backend Architecture:** Java (Core, Servlet, JSP), Spring Boot, Spring MVC, Struts, Hibernate, JPA, RESTful Web Services.
 *   **Frontend Technologies:** Angular, JavaScript, jQuery, HTML5, CSS3.
 *   **Database Management:** PostgreSQL, MSSQL, MySQL, Oracle, MongoDB.
-*   **Cloud & DevOps:** Azure DevOps, Azure CI/CD Pipelines, GitHub, Kubernetes (K8s), Jenkins, Maven.
+*   **Cloud & DevOps:** Azure DevOps, Azure CI/CD Pipelines, GitHub Actions, Kubernetes (K8s), Jenkins, Maven.
 *   **Security & Identity:** OAuth 2.0, JWT Authentication.
 *   **Monitoring & Observability:** Splunk, DataDog, SonarQube, SonarLint.
 
