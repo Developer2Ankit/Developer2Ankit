@@ -7,7 +7,7 @@
 
 ### 🛠️ Tech Stack & Tools
 
-<img src="https://shields.io" alt="Java"/> <img src="https://shields.io" alt="Spring Boot"/> <img src="https://shields.io" alt="Angular"/> <img src="https://shields.io" alt="Azure"/> <img src="https://shields.io" alt="Kubernetes"/> <img src="https://shields.io" alt="Splunk"/> <img src="https://shields.io" alt="Jenkins"/> <img src="https://shields.io" alt="PostgreSQL"/>
+![Java](https://shields.io) ![Spring Boot](https://shields.io) ![Angular](https://shields.io) ![Azure](https://shields.io) ![Kubernetes](https://shields.io) ![Splunk](https://shields.io) ![Jenkins](https://shields.io) ![PostgreSQL](https://shields.io)
 
 *   **Backend Architecture:** Java (Core, Servlet, JSP), Spring Boot, Spring MVC, Struts, Hibernate, JPA, RESTful Web Services.
 *   **Frontend Technologies:** Angular, JavaScript, jQuery, HTML5, CSS3.
