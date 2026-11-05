@@ -1,53 +1,132 @@
-# ANKIT YADAV
-**Senior Java Full Stack Developer / Technical Lead**
+# Hi, I'm Ankit Yadav 👋
 
-🔹 [📄 Download Full PDF Resume](./Ankit_Yadav_Resume.pdf) | 📧 ankit151software@gmail.com
+### Senior Java Full Stack Developer \| Technical Lead
 
----
+I'm a software engineer with **8+ years of Java experience** and **5+
+years of JavaScript/TypeScript experience**, building enterprise
+applications and SaaS platforms.
 
-### 🛠️ Core Tech Stack
+I work across backend services and frontend applications, with hands-on
+experience in Java, Spring Boot, REST APIs, Hibernate/JPA, Angular,
+TypeScript, relational databases, cloud technologies, CI/CD, and
+Kubernetes.
 
-*   **☕ Languages & Frameworks:** Java (Core, Servlet, JSP), Spring Boot, Spring MVC, Struts, Hibernate, JPA
-*   **🌐 Frontend Technologies:** Angular, JavaScript, jQuery, HTML5, CSS3
-*   **🗄️ Database Management:** PostgreSQL, MSSQL, MySQL, Oracle, MongoDB
-*   **☁️ Cloud & DevOps:** Azure DevOps, Azure CI/CD Pipelines, GitHub Actions, Kubernetes (K8s), Jenkins, Maven
-*   **🔐 Security & Identity:** OAuth 2.0, JWT Authentication
-*   **📊 Monitoring & Observability:** Splunk, DataDog, SonarQube, SonarLint
+I also contribute to **solution design and architecture decisions**,
+working through technical approaches, component design, database
+choices, and implementation trade-offs.
 
----
+------------------------------------------------------------------------
 
-### 💼 Professional Experience
+## 👨‍💻 About Me
 
-#### **HCL Technologies India Pvt. Ltd.** | *Java Full Stack Developer*
-*August 2023 – Present*
-*   **Project:** UKG Workforce Dimensions (Next-gen workforce management & timekeeping solutions).
-*   Architected and delivered low-latency RESTful APIs and UI layers using **Spring Boot, Hibernate, and Angular**.
-*   Optimized data processing workflows to handle **millions of records seamlessly** across PostgreSQL systems.
-*   Integrated **JWT-based authentication** and automated interactive API documentation via Swagger UI.
-*   Configured and managed **Jenkins and Kubernetes** automated build jobs for environment setups and pipeline debugging.
-*   Utilized **Splunk and DataDog** to proactively debug production logs and optimize system health.
+-   🔭 Currently working on enterprise workforce-management solutions.
+-   💻 Backend: Java, Spring Boot, Spring MVC, Spring Security,
+    Hibernate/JPA, REST APIs, Microservices.
+-   🎨 Frontend: Angular, TypeScript, JavaScript, HTML5, CSS3.
+-   🗄️ Databases: PostgreSQL, Oracle, Microsoft SQL Server, MySQL,
+    MongoDB.
+-   ☁️ Cloud & DevOps: Microsoft Azure, Azure DevOps, Docker,
+    Kubernetes, Jenkins, Maven.
+-   🔐 Security: OAuth 2.0, JWT.
+-   📈 Monitoring: Splunk, Datadog.
+-   🧩 Interested in scalable systems, performance optimization, clean
+    design, and reliable software delivery.
 
-#### **Apar Technologies Pvt. Ltd.** | *Tech Lead / Senior Developer*
-*July 2020 – August 2023*
-*   **Projects:** Wheebox (Proctored Online Assessment), KoeScore, eQuaze, and eAMS (Biometric Attendance Management).
-*   Led developers through system architecture design, database triggers, and stored procedures in MSSQL/Oracle environments.
-*   Implemented enterprise identity security using **OAuth 2.0 and Azure Face API** for geolocation-tracked face-recognition metrics.
-*   Engineered automated background processing via cron jobs and bulk uploading utilities for dynamic data pipelines.
-*   Maintained 90%+ code quality bars by enforcing **SonarQube scans** and automated JUnit testing criteria.
+## 🛠️ Tech Stack
 
-#### **Vedasya Tech Solutions Pvt. Ltd.** | *Java Full Stack Developer*
-*May 2019 – July 2020*
-*   **Project:** VedaJunction (SaaS Homeschooling Platform).
-*   Designed core functional modules focusing on exam evaluation and exam proctoring features.
-*   Developed full-stack workflows using **Java, Struts, JSP, Servlets, and MySQL**.
+**Languages** - Java - JavaScript - TypeScript - SQL
 
-#### **AMA Herbal** | *Developer – MIS*
-*November 2018 – April 2019*
-*   Built administrative registration and logging modules using early-tier Java web frameworks.
+**Backend** - Spring Boot - Spring MVC - Spring Security - Hibernate -
+JPA - RESTful APIs - Microservices
 
----
+**Frontend** - Angular - HTML5 - CSS3 - jQuery
 
-### 🎓 Education & Certifications
-*   **B.Tech in Computer Science** | Krishna Institute of Technology, Kanpur — *65.24%*
-*   **Microsoft Azure Cloud Developer Certificate** | Trained via HCLTech (Jan 2026)
-*   **Rising Star of the Year Award (2020)** | Apar Technologies
+**Databases** - PostgreSQL - Oracle - Microsoft SQL Server - MySQL -
+MongoDB
+
+**Cloud, DevOps & Tools** - Microsoft Azure - Azure DevOps - Docker -
+Kubernetes - Jenkins - Maven - GitHub - Swagger / OpenAPI - JUnit -
+SonarQube - Splunk - Datadog
+
+## 💼 Professional Experience
+
+### HCL Technologies India Pvt. Ltd. --- Java Full Stack Developer
+
+**August 2023 -- Present**
+
+**Project: UKG Workforce Dimensions**
+
+-   Develop and enhance REST APIs and Angular UI features using Java,
+    Spring Boot, Hibernate/JPA, JavaScript, and TypeScript.
+-   Collaborate on solution design, API contracts, implementation
+    choices, and technical trade-offs.
+-   Optimize high-volume data workflows across PostgreSQL, including
+    processing large datasets and millions of records.
+-   Troubleshoot data-access and performance issues; apply
+    pagination-based processing patterns to reduce memory pressure when
+    handling large result sets.
+-   Implement JWT-based API security and maintain API documentation with
+    Swagger UI.
+-   Support Jenkins build jobs and Kubernetes-based deployments.
+-   Use Splunk and Datadog for production-log investigation and
+    application monitoring.
+
+### Apar Technologies Pvt. Ltd. --- Tech Lead / Senior Developer
+
+**July 2020 -- August 2023**
+
+**Projects: Wheebox, KoeScore, eQuaze, and eAMS**
+
+-   Independently drove solution and architecture decisions for assigned
+    application modules, including technical approach, component design,
+    and implementation choices.
+-   Designed application workflows and database solutions, including
+    triggers and stored procedures across Microsoft SQL Server and
+    Oracle.
+-   Guided developers through technical implementation, code-quality
+    practices, and delivery.
+-   Implemented identity and access capabilities using OAuth 2.0 and
+    Azure Face API.
+-   Built scheduled background-processing and bulk-upload utilities.
+-   Used SonarQube quality gates and automated JUnit testing practices.
+
+### Vedasya Tech Solutions Pvt. Ltd. --- Java Full Stack Developer
+
+**May 2019 -- July 2020**
+
+**Project: VedaJunction**
+
+-   Developed exam-evaluation and online-exam-proctoring modules.
+-   Built full-stack workflows using Java, Struts, JSP, Servlets,
+    JavaScript, and MySQL.
+
+### AMA Herbal --- Developer, MIS
+
+**November 2018 -- April 2019**
+
+-   Developed administrative registration and logging modules using Java
+    web technologies.
+-   Built dynamic reports for operational business intelligence.
+
+## 🎓 Education
+
+**B.Tech in Computer Science**\
+Krishna Institute of Technology, Kanpur --- 2016
+
+## 🏅 Certifications & Achievements
+
+-   Microsoft Azure Cloud Developer Training Program --- HCLTech,
+    January 2026
+-   Rising Star of the Year --- Apar Technologies, 2020
+-   Participated in the Guinness World Record event organized at
+    Techkriti, IIT Kanpur
+
+------------------------------------------------------------------------
+
+## 🤝 Connect
+
+-   Email: **ankit151software@gmail.com**
+
+*I'm interested in senior Java full-stack engineering opportunities,
+scalable backend systems, and technically challenging product
+development.*
